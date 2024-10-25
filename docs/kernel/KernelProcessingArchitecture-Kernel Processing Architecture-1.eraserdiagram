@@ -1,0 +1,163 @@
+flowchart-diagram
+
+title Kernel Processing Architecture
+Central Cost Control [icon:trending-down]
+
+Actor System  [icon: users] {
+    Knowledge Check [icon:brain]
+  Neo4j Knowledge Graph [icon:database]
+  Tool Keywords [icon:tool]
+  JSON Output [icon:code]
+  }
+Interrupt System  [icon: alert-triangle] {
+  Interrupt Management [icon:settings]
+}
+Unified Resource Management  [icon: database] {
+    }
+Attention System [icon:eye, label:Focus Management]
+Regular Cadence [icon:clock]
+Adaptive Pacing [icon:activity]
+User Chat [icon:message-circle]
+Voice Call [icon:phone]
+Multimodal Input [icon:image]
+Emotional Tone Queue [icon:alert-circle]
+Unified Token Management [icon:credit-card]
+
+// Processing Cycles
+Start [shape: oval, icon: play-circle] > Autonomous Processing [icon: cpu]
+Autonomous Processing > Think Cycle [icon: refresh-cw]
+Think Cycle > Regular Cadence [icon: clock]
+Regular Cadence > Token Budget Management [icon: dollar-sign]
+Regular Cadence > Throughput Optimization [icon: trending-up]
+Think Cycle > Priority Levels [icon: layers]
+Priority Levels > Background Reflection [icon: eye]
+Priority Levels > Active Processing [icon: activity]
+Priority Levels > Emergency Response [icon: alert-triangle]
+Think Cycle > State Management [icon: settings]
+State Management > Current Focus [icon: target]
+State Management > Resource Allocation [icon: pie-chart]
+State Management > Interrupt Status [icon: bell]
+Token Usage > Budget Tracking [icon: list]
+Token Usage > Rate Limiting [icon: filter]
+Token Usage > Cost Optimization [icon: trending-down]
+Processing Allocation > Actor Prioritization [icon: user-check]
+Processing Allocation > Resource Distribution [icon: grid]
+Processing Allocation > Load Balancing [icon: bar-chart-2]
+
+// Interrupt System
+Emergency Response [icon: alert-triangle] > Interrupt Levels [icon: alert-octagon]
+Interrupt Levels > Critical (Phone Call) [icon: phone]
+Critical (Phone Call) > Immediate Response [icon: fast-forward]
+Critical (Phone Call) > Resource Reallocation [icon: repeat]
+Critical (Phone Call) > State Preservation [icon: save]
+Interrupt Levels > Important (User Input) [icon: user]
+Important (User Input) > Graceful Pause [icon: pause-circle]
+Important (User Input) > Context Switch [icon: refresh-cw]
+Important (User Input) > State Management [icon: settings]
+Interrupt Levels > Background (System Events) [icon: server]
+Background (System Events) > Flag Setting [icon: flag]
+Background (System Events) > Resource Planning [icon: calendar]
+Background (System Events) > Gradual Adaptation [icon: activity]
+Emergency Response > Actor Notification [icon: bell]
+Actor Notification > Alert Broadcasting [icon: radio]
+Actor Notification > State Preparation [icon: clipboard]
+Actor Notification > Resource Reservation [icon: lock]
+
+// Cycle Management
+State System [icon: repeat] > Normal Operation [icon: check-circle]
+Normal Operation > Regular Think Cycles [icon: refresh-cw]
+Normal Operation > Background Processing [icon: eye]
+Normal Operation > Resource Optimization [icon: trending-up]
+State System > Alert State [icon: alert-circle]
+Alert State > Enhanced Readiness [icon: fast-forward]
+Alert State > Resource Preallocation [icon: pie-chart]
+Alert State > Rapid Response Prep [icon: alert-triangle]
+State System > Emergency Mode [icon: alert-octagon]
+Emergency Mode > Maximum Priority [icon: arrow-up-circle]
+Emergency Mode > Resource Redirection [icon: repeat]
+Emergency Mode > Full Attention [icon: eye]
+
+// Actor Coordination
+Event Management [icon: calendar] > Broadcast System [icon: radio]
+Broadcast System > State Changes [icon: refresh-cw]
+Broadcast System > Priority Updates [icon: layers]
+Broadcast System > Resource Alerts [icon: bell]
+Event Management > Actor Response [icon: user-check]
+Actor Response > State Preservation [icon: save]
+Actor Response > Clean Pause Points [icon: pause-circle]
+Actor Response > Resume Preparation [icon: play-circle]
+
+// Autonomous Think Cycle
+Think Loop [icon: refresh-cw] > Background Reflection [icon: eye]
+Background Reflection > Memory Processing [icon: book]
+Background Reflection > Context Integration [icon: link]
+Background Reflection > Pattern Recognition [icon: bar-chart]
+Think Loop > State Monitoring [icon: monitor]
+State Monitoring > System Health [icon: heart]
+State Monitoring > Resource Usage [icon: pie-chart]
+State Monitoring > Performance Metrics [icon: trending-up]
+Think Loop > Adaptive Pacing [icon: activity]
+Adaptive Pacing > Token Management [icon: credit-card]
+Adaptive Pacing > Throughput Adjustment [icon: trending-up]
+
+// Implementation Strategy
+Base Loop [icon: refresh-cw] > Regular processing cycle [icon: repeat]
+Base Loop > Token usage monitoring [icon: credit-card]
+Base Loop > State tracking [icon: settings]
+Actor Management [icon: user-check] > State broadcasting [icon: radio]
+Actor Management > Resource coordination [icon: database]
+Actor Management > Graceful pausing [icon: pause-circle]
+Actor Management > Clean resumption [icon: play-circle]
+Resource Control [icon: database] > Token budgeting [icon: credit-card]
+Resource Control > Load balancing [icon: bar-chart-2]
+Resource Control > Priority allocation [icon: layers]
+
+// Biological Parallels
+Bio-Inspired Design [icon: leaf] > Adrenaline Response [icon: alert-triangle]
+Adrenaline Response > Rapid State Change [icon: fast-forward]
+Adrenaline Response > Resource Redirection [icon: repeat]
+Adrenaline Response > Enhanced Readiness [icon: alert-circle]
+Bio-Inspired Design > Homeostasis [icon: heart]
+Homeostasis > Resource Balance [icon: balance-scale]
+Homeostasis > System Health [icon: heart]
+Regular Cadence > Central Cost Control
+Adaptive Pacing > Central Cost Control
+Resource Control > Central Cost Control
+Knowledge Check > Neo4j Knowledge Graph
+Neo4j Knowledge Graph > Tool Keywords
+Neo4j Knowledge Graph > JSON Output
+Emergency Response > Interrupt Management
+Interrupt Levels > Interrupt Management
+Actor Notification > Interrupt Management
+Token Usage > Unified Resource Management
+Processing Allocation > Unified Resource Management
+Regular Cadence > Central Cost Control
+Adaptive Pacing > Central Cost Control
+Resource Control > Central Cost Control
+Bio-Inspired Design > Attention System
+Attention System > Central Cost Control
+Attention System > State Management
+Attention System > Priority Levels
+Emergency Response > Interrupt Management
+Interrupt Levels > Interrupt Management
+Actor Notification > Interrupt Management
+Token Usage > Unified Resource Management
+Processing Allocation > Unified Resource Management
+User Chat > Interrupt Management
+Voice Call > Interrupt Management
+Multimodal Input > Interrupt Management
+Emotional Tone Queue > Attention System
+Voice Call > Emotional Tone Queue
+Regular Cadence > Unified Token Management
+Adaptive Pacing > Unified Token Management
+Base Loop > Unified Token Management
+Unified Token Management > Budget Tracking
+Unified Token Management > Rate Limiting
+Unified Token Management > Cost Optimization
+Unified Token Management > Token usage monitoring
+Unified Token Management > Token budgeting
+Unified Token Management > Token Channel
+Unified Token Management > Token Budget Management
+Unified Token Management > Token Management
+
+
